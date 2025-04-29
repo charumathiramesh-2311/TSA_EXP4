@@ -112,23 +112,28 @@ SIMULATED ARMA(1,1) PROCESS:
 ![image](https://github.com/user-attachments/assets/92635e79-fa35-45fd-8686-7e52e7d0b876)
 
 
-Partial Autocorrelation
+Partial Autocorrelation:
+
 ![image](https://github.com/user-attachments/assets/1ccbea98-81e8-4394-aab8-aa8140999a03)
 
-Autocorrelation
+Autocorrelation:
+
 ![image](https://github.com/user-attachments/assets/814683de-bb8a-4857-8acc-11543f279e7f)
 
 
 
 SIMULATED ARMA(2,2) PROCESS:
+
 ![image](https://github.com/user-attachments/assets/6f6134eb-c43d-401a-bc63-4c879381ef16)
 
-Partial Autocorrelation
+Partial Autocorrelation:
+
 ![image](https://github.com/user-attachments/assets/0cd55462-af3c-4fe2-8a19-ad61c1cdad29)
 
 
 
-Autocorrelation
+Autocorrelation:
+
 ![image](https://github.com/user-attachments/assets/2fca5398-a9a4-40f3-b3bf-fbac5f75b867)
 
 RESULT:
